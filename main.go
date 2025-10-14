@@ -13,7 +13,7 @@ func main(){
 fmt.Println(". hello");
 
 
-dmt'Println("jesus is king")
+fmt.Println("jesus is king")
 
 
 
